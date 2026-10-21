@@ -1,0 +1,57 @@
+# Bancada Pronta
+
+> Ferramentas e construção para obra e reparo. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Categorias
+- [Ferramentas manuais](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/ferramentas-manuais/)
+- [Máquinas, soldagem e construção](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/maquinas-soldagem-e-construcao/)
+- [Tintas, vedação e acabamento](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/tintas-vedacao-e-acabamento/)
+- [Escadas e caixas de ferramentas](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/escadas-e-caixas-de-ferramentas/)
+- [Hidráulica, bombas e torneiras](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/hidraulica-bombas-e-torneiras/)
+- [Elétrica e energia](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/eletrica-e-energia/)
+- [Fechaduras, portas e dobradiças](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/fechaduras-portas-e-dobradicas/)
+- [Ímãs industriais](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/imas-industriais/)
+- [Jardim, piscina e área externa](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/jardim-piscina-e-area-externa/)
+- [Lavadoras de alta pressão](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/lavadoras-de-alta-pressao/)
+- [Medição e testes](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/medicao-e-testes/)
+- [Máquinas de costura](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/maquinas-de-costura/)
+- [Fitas adesivas](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/fitas-adesivas/)
+- [Furadeiras](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/furadeiras/)
+- [Unhas](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/unhas/)
+- [Outros produtos](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/outros-produtos/)
+
+## Guias de compra
+- [Como escolher fita adesiva: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-fita-adesiva/)
+- [Fitas adesivas até R$ 60: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/fitas-adesivas-ate-60/)
+- [Como escolher furadeira: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-furadeira/)
+- [Furadeiras até R$ 160: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/furadeiras-ate-160/)
+- [Como escolher lavadora de alta pressão: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-lavadora-de-alta-pressao/)
+- [Lavadoras de alta pressão até R$ 350: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/lavadoras-de-alta-pressao-ate-350/)
+- [Como escolher mangueira industrial: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-mangueira-industrial/)
+- [Mangueiras industriais até R$ 80: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/mangueiras-industriais-ate-80/)
+- [Como escolher máquina de costura: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-maquina-de-costura/)
+- [Máquinas de costura até R$ 650: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/maquinas-de-costura-ate-650/)
+- [Como escolher ímã industrial: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-ima-industrial/)
+- [Ímãs industriais até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/imas-industriais-ate-30/)
+
+## Comparativos
+- [Fita Adesiva Durex Transparente 4.5cm Larga 45m Pacote vs Fita Dupla Face Scotch 3M, 24mm x 2m: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/fita-adesiva-durex-transparente-4-5cm-larga-45m-pacote-vs-fita-dupla-face-scotch-3m-24mm-x/)
+- [Kit 10 Fita isolante 3M cor preto 10m vs Kit 10 Fita Adesiva Embalagem Durex Caixa 45mm: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/kit-10-fita-isolante-3m-cor-preto-10m-vs-kit-10-fita-adesiva-embalagem-durex-caixa-45mm/)
+- [Parafusadeira Furadeira The Black Tools TB12A 3/8 a vs Parafusadeira Furadeira Impacto Sem Fio 2 Baterias Recarregável: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/parafusadeira-furadeira-the-black-tools-tb12a-3-8-a-vs-parafusadeira-furadeira-impacto-sem/)
+- [Furadeira Parafusadeira De Impacto 21v Com 2 Baterias vs Parafusadeira Furadeira De Impacto The Black Tools Profissional: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/furadeira-parafusadeira-de-impacto-21v-com-2-baterias-vs-parafusadeira-furadeira-de-impact/)
+- [Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt vs Lava Jato Portátil Alta Pressao Lavadora 2 Baterias: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lavadora-alta-pressao-portatil-recarregavel-sem-fio-bivolt-vs-lava-jato-portatil-alta-pres/)
+- [Lavadora De Alta Pressão Vonder 1400w Lav 1600 vs Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lavadora-de-alta-pressao-vonder-1400w-lav-1600-vs-lavadora-de-alta-pressao-karcher-compact/)
+- [Lavadora de Alta Pressão WAP WL 1820 com vs Lavadora de Alta Pressão Compacta WAP WL 1800: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lavadora-de-alta-pressao-wap-wl-1820-com-vs-lavadora-de-alta-pressao-compacta-wap-wl-1800/)
+- [20 Mts Mangueira Poliuretano Pu Pneumática 8mm Azul vs Mangueira Lavadora Alta Pressão Compativel com Wap Ousada: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/20-mts-mangueira-poliuretano-pu-pneumatica-8mm-azul-vs-mangueira-lavadora-alta-pressao-com/)
+- [Mini Máquina De Costura Elétrica Portátil Compacta Com vs Máquina De Costura 12 Pontos Elétrica Portátil Bivolt: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/mini-maquina-de-costura-eletrica-portatil-compacta-com-vs-maquina-de-costura-12-pontos-ele/)
+- [Máquina De Costura Genius Plus Jx-4035 Elgin Cor vs Singer Doméstica M1605: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/maquina-de-costura-genius-plus-jx-4035-elgin-cor-vs-singer-domestica-m1605/)
+- [Máquina De Costura Facilita Pro 4411 Cor Cinza vs Máquina de costura reta Singer Facilita Pro 4423: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/maquina-de-costura-facilita-pro-4411-cor-cinza-vs-maquina-de-costura-reta-singer-facilita-/)
+- [Ima De Neodímio 10x2 Redondo Pequeno 10mm X vs Ímã Neodímio Ø 10x2 mm N35 20 Unidades: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/ima-de-neodimio-10x2-redondo-pequeno-10mm-x-vs-ima-neodimio-10x2-mm-n35-20-unidades/)
+- [Ímã Neodímio Ø 10x1 Mm N35 20 Unidades vs Imã Neodimio Retângulo Super Forte 20x10x2mm N35 -: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/ima-neodimio-10x1-mm-n35-20-unidades-vs-ima-neodimio-retangulo-super-forte-20x10x2mm-n35/)
+- [50pcs. Imã De Neodímio 5x2 Redondo Pequeno 5mm vs 10pcs. Imã Super Forte 10x2 Redondo Pastilha 10mm: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/50pcs-ima-de-neodimio-5x2-redondo-pequeno-5mm-vs-10pcs-ima-super-forte-10x2-redondo-pastil/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/bancada-pronta/sobre/)
+- [Perguntas frequentes](https://marcusviniciusps08-hue.github.io/bancada-pronta/faq/)
