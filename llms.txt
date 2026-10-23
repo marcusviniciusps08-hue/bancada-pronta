@@ -1,8 +1,8 @@
 # Bancada Pronta
 
-> Ferramentas e construção para obra e reparo. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+> Ferramentas e construção para obra e reparo. Preços lidos nos anúncios (Mercado Livre e Shopee), com a data de leitura.
 
-Contém links de afiliado Mercado Livre.
+Contém links de afiliado Mercado Livre e Shopee.
 
 ## Categorias
 - [Ferramentas manuais](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/ferramentas-manuais/)
@@ -32,7 +32,7 @@ Contém links de afiliado Mercado Livre.
 - [Como escolher mangueira industrial: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-mangueira-industrial/)
 - [Mangueiras industriais até R$ 80: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/mangueiras-industriais-ate-80/)
 - [Como escolher máquina de costura: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-maquina-de-costura/)
-- [Máquinas de costura até R$ 650: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/maquinas-de-costura-ate-650/)
+- [Máquinas de costura até R$ 700: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/maquinas-de-costura-ate-700/)
 - [Como escolher ímã industrial: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-ima-industrial/)
 - [Ímãs industriais até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/imas-industriais-ate-30/)
 
@@ -42,8 +42,8 @@ Contém links de afiliado Mercado Livre.
 - [Parafusadeira Furadeira The Black Tools TB12A 3/8 a vs Parafusadeira Furadeira Impacto Sem Fio 2 Baterias Recarregável: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/parafusadeira-furadeira-the-black-tools-tb12a-3-8-a-vs-parafusadeira-furadeira-impacto-sem/)
 - [Furadeira Parafusadeira De Impacto 21v Com 2 Baterias vs Parafusadeira Furadeira De Impacto The Black Tools Profissional: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/furadeira-parafusadeira-de-impacto-21v-com-2-baterias-vs-parafusadeira-furadeira-de-impact/)
 - [Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt vs Lava Jato Portátil Alta Pressao Lavadora 2 Baterias: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lavadora-alta-pressao-portatil-recarregavel-sem-fio-bivolt-vs-lava-jato-portatil-alta-pres/)
-- [Lavadora De Alta Pressão Vonder 1400w Lav 1600 vs Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lavadora-de-alta-pressao-vonder-1400w-lav-1600-vs-lavadora-de-alta-pressao-karcher-compact/)
-- [Lavadora de Alta Pressão WAP WL 1820 com vs Lavadora de Alta Pressão Compacta WAP WL 1800: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lavadora-de-alta-pressao-wap-wl-1820-com-vs-lavadora-de-alta-pressao-compacta-wap-wl-1800/)
+- [Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI vs Lavadora de Alta Pressão WAP WL 1820 com: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lavadora-de-alta-pressao-karcher-compacta-1-500-psi-vs-lavadora-de-alta-pressao-wap-wl-182/)
+- [Lavadora de Alta Pressão Compacta WAP WL 1800 vs Lavadora De Alta Pressão Vonder 1400w Lav 1600: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lavadora-de-alta-pressao-compacta-wap-wl-1800-vs-lavadora-de-alta-pressao-vonder-1400w-lav/)
 - [20 Mts Mangueira Poliuretano Pu Pneumática 8mm Azul vs Mangueira Lavadora Alta Pressão Compativel com Wap Ousada: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/20-mts-mangueira-poliuretano-pu-pneumatica-8mm-azul-vs-mangueira-lavadora-alta-pressao-com/)
 - [Mini Máquina De Costura Elétrica Portátil Compacta Com vs Máquina De Costura 12 Pontos Elétrica Portátil Bivolt: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/mini-maquina-de-costura-eletrica-portatil-compacta-com-vs-maquina-de-costura-12-pontos-ele/)
 - [Máquina De Costura Genius Plus Jx-4035 Elgin Cor vs Singer Doméstica M1605: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/maquina-de-costura-genius-plus-jx-4035-elgin-cor-vs-singer-domestica-m1605/)
