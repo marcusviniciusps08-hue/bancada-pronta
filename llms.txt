@@ -7,9 +7,9 @@ Contém links de afiliado Mercado Livre.
 ## Categorias
 - [Ferramentas manuais](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/ferramentas-manuais/)
 - [Máquinas, soldagem e construção](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/maquinas-soldagem-e-construcao/)
-- [Tintas, vedação e acabamento](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/tintas-vedacao-e-acabamento/)
 - [Escadas e caixas de ferramentas](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/escadas-e-caixas-de-ferramentas/)
 - [Hidráulica, bombas e torneiras](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/hidraulica-bombas-e-torneiras/)
+- [Tintas, vedação e acabamento](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/tintas-vedacao-e-acabamento/)
 - [Elétrica e energia](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/eletrica-e-energia/)
 - [Fechaduras, portas e dobradiças](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/fechaduras-portas-e-dobradicas/)
 - [Ímãs industriais](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/imas-industriais/)
@@ -21,8 +21,6 @@ Contém links de afiliado Mercado Livre.
 - [Outros produtos](https://marcusviniciusps08-hue.github.io/bancada-pronta/categoria/outros-produtos/)
 
 ## Guias de compra
-- [Como escolher fita adesiva: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-fita-adesiva/)
-- [Fitas adesivas até R$ 70: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/fitas-adesivas-ate-70/)
 - [Como escolher furadeira: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-furadeira/)
 - [Furadeiras até R$ 130: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/furadeiras-ate-130/)
 - [Como escolher lavadora de alta pressão: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/como-escolher-lavadora-de-alta-pressao/)
@@ -35,7 +33,6 @@ Contém links de afiliado Mercado Livre.
 - [Ímãs industriais até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/bancada-pronta/guias/imas-industriais-ate-30/)
 
 ## Comparativos
-- [Fita Adesiva Durex Transparente 4.5cm Larga 45m Pacote vs Kit 10 Fita Adesiva Embalagem Durex Caixa 45mm: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/fita-adesiva-durex-transparente-4-5cm-larga-45m-pacote-vs-kit-10-fita-adesiva-embalagem-du/)
 - [Parafusadeira Furadeira The Black Tools TB12A 3/8 a vs Parafusadeira Furadeira Impacto Sem Fio 2 Baterias Recarregável: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/parafusadeira-furadeira-the-black-tools-tb12a-3-8-a-vs-parafusadeira-furadeira-impacto-sem/)
 - [Furadeira Parafusadeira De Impacto 21v Com 2 Baterias vs Parafusadeira Furadeira De Impacto The Black Tools Profissional: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/furadeira-parafusadeira-de-impacto-21v-com-2-baterias-vs-parafusadeira-furadeira-de-impact/)
 - [Lava Jato Portátil Alta Pressao Lavadora 2 Baterias vs Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt: comparativo](https://marcusviniciusps08-hue.github.io/bancada-pronta/comparativos/lava-jato-portatil-alta-pressao-lavadora-2-baterias-vs-lavadora-alta-pressao-portatil-reca/)
